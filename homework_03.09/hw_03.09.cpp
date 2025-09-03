@@ -147,7 +147,7 @@ int main()
 	car1.init();
 	car1.print();
 
-	Car car2("Toyota", "Japan", "Red", 2020, 30000.0);
+	Car car2("Toyota", "Japan", "Red", 2020, 30000);
 	car2.print();
 
 	car2.set_colour("Blue");
